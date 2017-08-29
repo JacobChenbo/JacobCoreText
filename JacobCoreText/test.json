@@ -1,0 +1,48 @@
+[
+ {
+ "type" : "img",
+ "width" : 200,
+ "height" : 108,
+ "name" : "1.jpg"
+ },
+ {
+ "color" : "blue",
+ "content" : "个上课就了解对方洛杉矶开发商将打开了上课了  是的 快乐时刻发生， 是给建安公司， 阿迪发的",
+ "size" : 16,
+ "type" : "txt"
+ },
+ {
+ "color" : "red",
+ "content" : "内容 ， 颜色 ， 字体",
+ "size" : 22,
+ "type" : "txt"
+ },
+ {
+ "type" : "img",
+ "width" : 50,
+ "height" : 50,
+ "name" : "2.jpg"
+ },
+ {
+ "color" : "black",
+ "content" : "大小等信息。\n",
+ "size" : 16,
+ "type" : "txt"
+ },
+ {
+ "color" : "default",
+ "content" : "第三方看电视了放到了开朗大方啊看来地方历史地看阿斯科利的发卡反馈单老师 。。。撒范德萨。。 第三方",
+ "type" : "txt"
+ },
+ {
+ "color" : "blue",
+ "content" : "www.baidu.com",
+ "type" : "link",
+ "url" : "www.baidu.com"
+ },
+ {
+ "color" : "default",
+ "content" : "地方撒发大水飞",
+ "type" : "txt"
+ }
+ ]
